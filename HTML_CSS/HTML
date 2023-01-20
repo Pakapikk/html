@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="et">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="aksel ratt">
+    <meta name="keywords" content="html, css">
+    <link rel="stylesheet" href="css">
+    <title>HTML ja CSS</title>
+  </head>
+  <body>
+
+<div id="contents">
+    <div id="sidebar">
+        
+        
+   </div>
+    <div id="mainContents"> 
+        <div class="center-div" >
+          
+            <h1>Veebilõust</h1>
+        </div>
+        <div class="center-div" >
+            <h1>Aksel Ratt</h1>
+        </div>
+    </div>
+    <div id="sidebar2">
+        
+    </div>
+
+    <div class="container">
+        <div class="header">
+          <h1>Veebilõust</h1>
+          <h3>Aksel Ratt</h3>
+        </div>
+        <div class="menu">
+          <a href="#">Avaleht</a>
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <center>
+          <h1>Lorem Ipsum</h1>
+        </center>
+      </tr>
+      <center>
+      <td> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat ad soluta nesciunt tempora ea numquam deserunt, fugit laborum! Ex tempora nemo molestiae ipsam distinctio minima consectetur facilis laudantium ratione iure..
+      </center>
+      </td>
+          <table>
+            <tr>
+              <td>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 1">
+              </th>
+              <th>
+                <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 2">
+              </th>
+              <th>
+                <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 3">
+              </th>
+              <th>
+                  <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 4">
+              <td></td>
+            </tr>
+            <tr>
+              <td>
+                  <h2>Lorem Ipsum</h2>
+              </td>
+            </tr>
+            <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              <h2>15.25€</h2>
+            </td>
+            <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              <h2>25.00€</h2>
+            </td>
+            <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              <h2>15.00€</h2>
+            </td>
+            <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              <h2>25.00€</h2>
+              <td>
+            </tr>
+  
+  
+  </div>
+  
+  </html>
+  </body>
+  <table>
+    <footer>
+      <center>
+      <h2>Aksel Ratt</h2>
+      </center>
+    </footer>
+  </table>
+  
+  </style>
+  </head>
+  <body>
+  
+  </div>
+  </body>
+  </html> 
+  
