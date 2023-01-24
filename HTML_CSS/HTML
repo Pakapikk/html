@@ -19,10 +19,10 @@
     <div id="mainContents"> 
         <div class="center-div" >
           
-            <h1>Veebilõust</h1>
+           
         </div>
         <div class="center-div" >
-            <h1>Aksel Ratt</h1>
+            
         </div>
     </div>
     <div id="sidebar2">
@@ -35,17 +35,16 @@
           <h3>Aksel Ratt</h3>
         </div>
         <div class="menu">
-          <a href="#">Avaleht</a>
-          <a href="#">Link 1</a>
-          <a href="#">Link 2</a>
+          <h4>Avaleht</h4>
+          <h4>Link 1</h4>
+          <h4>Link 2</h4>
           <center>
-          <h1>Lorem Ipsum</h1>
+          <h5>Lorem Ipsum</h5>
         </center>
       </tr>
       <center>
-      <td> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat ad soluta nesciunt tempora ea numquam deserunt, fugit laborum! Ex tempora nemo molestiae ipsam distinctio minima consectetur facilis laudantium ratione iure..
+      <td> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat ad soluta nesciunt tempora ea numquam deserunt, fugit laborum! Ex tempora nemo molestiae ipsam distinctio minima consectetur facilis laudantium ratione iure..</td>
       </center>
-      </td>
           <table>
             <tr>
               <td>
@@ -53,34 +52,34 @@
             </tr>
             <tr>
               <th>
-                <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 1">
+                <img width="250" height="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 1">
               </th>
               <th>
-                <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 2">
+                <img width="250" height="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 2">
               </th>
               <th>
-                <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 3">
+                <img width="250" height="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 3">
               </th>
               <th>
-                  <img width="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 4">
+                  <img width="250" height="250" src="https://s3.amazonaws.com/baconmockup/img/baconmockup-470-300.jpg" alt="liha 4">
               <td></td>
             </tr>
             <tr>
               <td>
-                  <h2>Lorem Ipsum</h2>
+                  <h5>Lorem Ipsum</h5>
               </td>
             </tr>
             <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              <h2>15.25€</h2>
+              <h5>15.25€</h5>
             </td>
             <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              <h2>25.00€</h2>
+              <h5>25.00€</h5>
             </td>
             <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              <h2>15.00€</h2>
+              <h5>15.00€</h5>
             </td>
             <td> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              <h2>25.00€</h2>
+              <h5>25.00€</h5>
               <td>
             </tr>
   

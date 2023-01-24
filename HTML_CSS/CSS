@@ -1,20 +1,56 @@
+/* PEAMINE */
 .center-div
- {
- margin: 0 auto;
- padding: 15px;
- background-color: red;
-
- }
-
-
-
-#contents {
-overflow: auto;
-margin: auto;
-margin-bottom: 10px;
-width: 100%;
+ *{
+ background-color: white;
+ height: 580px;
 }
 
+div {
+  width: 1200px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+/* SISU */
+#contents {
+width: 100%;
+height: 200px;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+h4 {
+  font-size: 17px;
+  display: inline-block;
+}
+
+/* PILDIRIBA */
+h5{
+  font-size: 1.3rem;
+  color: blue;
+}
+
+td {
+  font-size: 0.95rem
+}
+
+/* JALUS */
+h2 {
+  height: 40px;
+  font-size: 17px;
+}
+
+
+ 
 #sidebar {
 
 float: left;
@@ -22,9 +58,6 @@ width: 15%;
 height: 1000px;
 margin:1%;
 background-color: lightgrey;
-
-padding: 5px;
-margin-top: 20px;
 
 }
 
@@ -36,41 +69,4 @@ margin-top: 20px;
   margin:1%;
   background-color: lightgrey;
   
-  padding: 5px;
-  margin-top: 20px;
-  
   }
-
-#mainContents {
-  
-    float: left;
-    width:59%;
-    margin: 0px;
-    padding: 5px;
-    padding-top: 20px;
-}
-
-/* ÜLDINE */
-*{
-    background-color: white
-}
-
-div {
-  width: 1200px;
-  margin: auto;
-}
-
-/* PÄIS JA MENÜÜ */
-.header h1{
-  font-size: 50px;
-  width: 100%;
-  line-height: 90px;
-  color: rgb(85, 172, 118)
-}
-
-.header h3{
-  font-size: 40px;
-  width: 100%;
-  line-height: 90px;
-  color: rgb(226, 28, 28)
-}
