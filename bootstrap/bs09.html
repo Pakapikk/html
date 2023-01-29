@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="et">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <script src="js/popper.min.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <title>h09</title>
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Kasutajad</h1>
+        <nav class="navbar">
+            <div class="container-fluid">
+                <button type="button" class="btn btn-success">+Lisa uus</button>
+                <form class="d-flex">
+                    <input class="form-control me-2">
+                    <button class="btn btn-success" type="submit">Otsi</button>
+                </form>
+            </div>
+        </nav>
+        <table class="table table-striped ">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Pilt</th>
+                    <th scope="col">Nimi</th>
+                    <th scope="col">email</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td><img class="rounded-circle" src="https://loremflickr.com/50/50" alt="pilt"></td>
+                    <td>Ülle Doos</td>
+                    <td>heli@kopter.ee</td>
+                    <td><button type="button" class="btn btn-warning">Muuda</button></td>
+                    <td><button type="button" class="btn btn-danger">Kustuta</button></td>
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td><img class="rounded-circle" src="https://loremflickr.com/50/50" alt="pilt"></td>
+                    <td>Karin Eegreid</td>
+                    <td>karin@eegreid.ee</td>
+                    <td><button type="button" class="btn btn-warning">Muuda</button></td>
+                    <td><button type="button" class="btn btn-danger">Kustuta</button></td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td><img class="rounded-circle" src="https://loremflickr.com/50/50" alt="pilt"></td>
+                    <td>Anna Musu</td>
+                    <td>anna@musu.ee</td>
+                    <td><button type="button" class="btn btn-warning">Muuda</button></td>
+                    <td><button type="button" class="btn btn-danger">Kustuta</button></td>
+                </tr>
+                <tr>
+                    <th scope="row">4</th>
+                    <td><img class="rounded-circle" src="https://loremflickr.com/50/50" alt="pilt"></td>
+                    <td>Aili Bastusin</td>
+                    <td>aili@libastusin.ee</td>
+                    <td><button type="button" class="btn btn-warning">Muuda</button></td>
+                    <td><button type="button" class="btn btn-danger">Kustuta</button></td>
+                </tr>
+            </tbody>
+
+        </table>
+        <nav>
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link" href="#">Tagasi</a></li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">Järgmine</a></li>
+            </ul>
+        </nav>
+    </div>
+</body></html>
